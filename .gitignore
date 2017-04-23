@@ -1,1 +1,5 @@
 *.jar
+*.gz
+*.zip
+target/
+.settings/
