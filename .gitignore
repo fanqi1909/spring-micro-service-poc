@@ -1,5 +1,5 @@
 *.jar
 *.gz
 *.zip
-target/
-.settings/
+target/*
+.settings/*
