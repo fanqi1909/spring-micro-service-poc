@@ -1,5 +1,10 @@
 *.jar
 *.gz
 *.zip
-target/*
-.settings/*
+target
+.settings
+
+*.class
+*.jar
+data-services/target/data-services-1.0-SNAPSHOT.jar.original
+data-services/target/maven-archiver/pom.properties
